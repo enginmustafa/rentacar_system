@@ -67,7 +67,7 @@ def main():
     print_rent_result(
         rent_system.rent_car(ivan, ['0000', '0001', '0002', '0004'], enums.Units.HOUR, datetime(2021, 3, 3, 23), 3))
 
-    # try rent cars with specified plate numbers for alex, from 2021/03/04 01:59 to 2021/03/11 01:59
+    # try to rent cars with specified plate numbers for alex, from 2021/03/04 01:59 to 2021/03/11 01:59
     print_rent_result(
         rent_system.rent_car(ivan, ['0000', '0001', '0002', '0004'], enums.Units.WEEK, datetime(2021, 3, 4, 1, 59), 1))
 
