@@ -1,0 +1,119 @@
+[
+    {
+        "brand": "Audi",
+        "model": "A3",
+        "fuel_consumption": 6,
+        "plate_number": "0000",
+        "price_hour": 6,
+        "price_day": 50,
+        "price_week": 280
+    },
+    {
+        "brand": "Audi",
+        "model": "A4",
+        "fuel_consumption": 6.5,
+        "plate_number": "0001",
+        "price_hour": 6.5,
+        "price_day": 53,
+        "price_week": 291
+    },
+    {
+        "brand": "Audi",
+        "model": "A6",
+        "fuel_consumption": 8,
+        "plate_number": "0002",
+        "price_hour": 8,
+        "price_day": 56,
+        "price_week": 305
+    },
+    {
+        "brand": "Audi",
+        "model": "A8",
+        "fuel_consumption": 9,
+        "plate_number": "0003",
+        "price_hour": 9,
+        "price_day": 56,
+        "price_week": 300
+    },
+    {
+        "brand": "Audi",
+        "model": "Q7",
+        "fuel_consumption": 9.5,
+        "plate_number": "0004",
+        "price_hour": 10,
+        "price_day": 49,
+        "price_week": 286
+    },
+    {
+        "brand": "Mercedes",
+        "model": "A180",
+        "fuel_consumption": 5.9,
+        "plate_number": "0005",
+        "price_hour": 5,
+        "price_day": 35,
+        "price_week": 190
+    },
+    {
+        "brand": "Mercedes",
+        "model": "B220",
+        "fuel_consumption": 6.3,
+        "plate_number": "0006",
+        "price_hour": 6,
+        "price_day": 39,
+        "price_week": 200
+    },
+    {
+        "brand": "Mercedes",
+        "model": "C280",
+        "fuel_consumption": 8,
+        "plate_number": "0007",
+        "price_hour": 12,
+        "price_day": 66,
+        "price_week": 335
+    },
+    {
+        "brand": "Mercedes",
+        "model": "Ml320",
+        "fuel_consumption": 12.6,
+        "plate_number": "0008",
+        "price_hour": 16,
+        "price_day": 90,
+        "price_week": 450
+    },
+    {
+        "brand": "Mercedes",
+        "model": "G450",
+        "fuel_consumption": 14,
+        "plate_number": "0009",
+        "price_hour": 19,
+        "price_day": 140,
+        "price_week": 800
+    },
+    {
+        "brand": "BMW",
+        "model": "320",
+        "fuel_consumption": 6.3,
+        "plate_number": "0010",
+        "price_hour": 6.5,
+        "price_day": 53,
+        "price_week": 291
+    },
+    {
+        "brand": "BMW",
+        "model": "530",
+        "fuel_consumption": 7.9,
+        "plate_number": "0011",
+        "price_hour": 8.1,
+        "price_day": 52,
+        "price_week": 286
+    },
+    {
+        "brand": "BMW",
+        "model": "740",
+        "fuel_consumption": 8.9,
+        "plate_number": "0012",
+        "price_hour": 8.9,
+        "price_day": 55,
+        "price_week": 296
+    }
+]
